@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "user": "Elon Reeve Musk",
+        "tweets": 777,
+        "followers": 100500,
+        "avatar": "avatar.png"
+    },
+    {
+        "id": 2,
+        "user": "Foma Foma",
+        "tweets": 888,
+        "followers": 90000,
+        "avatar": "avatar.png"
+    },
+    {
+        "id": 3,
+        "user": "Toby Toby",
+        "tweets": 555,
+        "followers": 56800,
+        "avatar": "avatar.png"
+    },
+    {
+        "id": 4,
+        "user": "Roy Roy",
+        "tweets": 999,
+        "followers": 2399,
+        "avatar": "avatar.png"
+    },
+    {
+        "id": 5,
+        "user": "Kurt Kurt",
+        "tweets": 222,
+        "followers": 55500,
+        "avatar": "avatar.png"
+    },
+    {
+        "id": 6,
+        "user": "Dan Dan",
+        "tweets": 333,
+        "followers": 45345,
+        "avatar": "avatar.png"
+    }
+]
